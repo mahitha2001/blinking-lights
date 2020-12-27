@@ -1,0 +1,58 @@
+canvas{
+  width:100 ;
+  height:100;
+}
+#One {
+  top: 550px;
+  left: 50px;
+  position: absolute;
+}
+#Two {
+  top: 550px;
+  left: 200px;
+  position: absolute;
+}
+#Three {
+  top: 550px;
+  left: 350px;
+  position: absolute;
+}
+#Four {
+  top: 250px;
+  left: 50px;
+  position: absolute;
+}
+#Five {
+  top: 250px;
+  left: 200px;
+  position: absolute;
+}
+#Six {
+  top: 250px;
+  left: 350px;
+  position: fixed;
+}
+#Seven {
+  top: 400px;
+  left: 50px;
+  position: absolute;
+}
+#Eight {
+  top: 400px;
+  left: 200px;
+  position: absolute;
+}
+#Nine {
+  top: 400px;
+  left: 350px;
+  position: absolute;
+}
+#timer{
+  color:black;
+  margin-left: 800px;
+  margin-right: 800px;
+  margin-top: 50px;
+}
+.button{
+  top: 150px;
+}
